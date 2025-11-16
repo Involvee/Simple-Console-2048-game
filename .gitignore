@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.sdf
+*.ipch
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# OS files
+Thumbs.db
+.DS_Store
