@@ -4,7 +4,7 @@ A simple console version of the classic 2048 game, implemented in C++. Play dire
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](demo.png)
 
 ## Features
 
