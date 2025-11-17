@@ -31,6 +31,6 @@ git clone https://github.com/Involvee/Simple-Console-2048-game.git
 
 3. Go to File → Open → Folder and select the cloned repository folder.
 
-4. Open main.cpp (or your entry point file).
+4. Open 2048.cpp (or your entry point file).
 
 5. Press Ctrl + F5 to build and run the game.
